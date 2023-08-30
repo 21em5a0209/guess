@@ -1,0 +1,12 @@
+body{
+	background-image: url(https://as1.ftcdn.net/v2/jpg/03/18/48/74/1000_F_318487428_RTxUyTQW04RXcakokT3SMLo8lzkQySBG.jpg);
+	border-image-width: 100px;
+	border-image-height:300px;
+	text-align: center;
+}
+
+
+p{
+	color:#870362;
+	font-size: 20px;
+}
